@@ -1,0 +1,66 @@
+﻿修改日期,软件分类,软件概述（功能定位）,录用结果,推荐指数,成本提示,使用建议,页面截图,官网链接,文档链接,调研人,最新迭代日期,父记录,目前项目正在使用
+AIZEX,文本,??最接近官网Chatgpt5模型,录用,5,试用额度,每月19元/高级会员基本满足使用,image.png,https://aizex.net/,无,贺采,2025/12/31,,未使用
+星流,图片,图片Agent/生成+编辑,录用,4,试用额度,对文字生成效果较好,image.png,https://www.xingliu.art/,无,贺采,2025/12/31,,未使用
+Nano-Banana,图片,图像生成+编辑,录用,5,免费,"其他试用方式
+②Gemini官网：https://gemini.google.com/app（免费）
+③LMArena：https://lmarena.ai/?mode=direct&chat-modality=image （免费）",image.png,https://aistudio.google.com/prompts/new_chat （个别地区使用受限）,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,使用中
+Flux playground,图片,图像生成+编辑,待定,3,试用额度,Flux相关大模型生成编辑图像,image.png,https://playground.bfl.ai/image/generate,无,贺采,2025/12/31,,未使用
+Liblib,"图片, 视频",图片生成/视频生成,录用,4,试用额度,,image.png,https://www.liblib.art/,落地文档③Stable Diffusion内容生成手册,贺采,2025/12/31,,使用中
+Midjourney,"图片, 视频",图片生成/视频生成,录用,4,无法试用,现阶段官网可以直接使用,image.png,https://www.midjourney.com/,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,未使用
+通义万象,"图片, 视频",有声视频生成/图片生成/视频生成 ,录用,4,试用额度,日常可以不使用点数生成,image.png,https://wanx.biz.aliyun.com/wanxiang/,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,未使用
+火山引擎,"图片, 视频, 语音/音频",多模态生成/Agent智能体,录用,5,试用额度,单图生成分镜视频,image.png,https://www.volcengine.com/,《AI软件筛选分析报告》--滚动更新,"贺采,王琼琼",2025/12/31,,未使用
+Runway,视频,视频生成/编辑,录用,3,无法试用,稳定性待提高,image.png,https://app.runwayml.com/video-tools/teams/hecai0126/ai-tools/generate,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,未使用
+Flow,视频,有声视频生成/编辑,待定,3,无法试用,效果与VEO3相似，但稳定性稍差,image.png,https://labs.google/flow/about,《AI软件筛选分析报告》--滚动更新,贺采,2025/12/31,,未使用
+Vidu,视频,视频生成/编辑,待定,3,试用额度,,image.png,https://www.vidu.cn/ ,《AI软件筛选分析报告》--滚动更新,贺采,2025/12/31,,未使用
+Higgsfield,视频,AI视频特效/运镜,录用,4,无法试用,,image.png,https://higgsfield.ai/,无,"贺采,黄青青",2025/12/31,,未使用
+MINIMAX(国际版),语音/音频,文字转语音/音乐创作/音色设计/声音克隆/声音清晰,录用,5,试用额度,国际版初月有10000点免费机会,image.png,https://www.minimax.io/audio,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,使用中
+MINIMAX(国内版),语音/音频,语音合成/音乐创作/音色设计/人声提取,录用,5,试用额度,国内版每月有10000点免费机会/无语音克隆,image.png,https://www.minimaxi.com/audio,《AI软件筛选分析报告》--滚动更新,贺采,2025/12/31,,使用中
+IIEleventLabs,语音/音频,文本转语音（TTS）、语音转文本\自动配音、语音克隆、语音定制、音乐模块,录用,4,试用额度,,image.png,https://elevenlabs.io/app/home,"《AI软件筛选分析报告》--滚动更新
+《AI软件筛选分析报告》--滚动更新
+","贺采,王珺",2025/12/31,,使用中
+Enhance,语音/音频,语音降噪增强修复,录用,5,免费,单词输入音频时长≤30min,image.png,https://podcast.adobe.com/en,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,未使用
+IndexTTS2工作流,语音/音频,语音克隆/语音合成/语音调节情感,录用,4,试用额度,在RunningHub中使用,image.png,https://www.runninghub.cn/post/1965465752209866754,落地文档⑥Comfyui常用功能测试汇总——滚动更新,"贺采,王琼琼",2025/12/31,,使用中
+Seko,视频Agent,视频策划/脚本生成/分镜生成/视频生成/（转场）,录用,4,试用额度,文本最好使用故事讲述的形式,image.png,https://seko.sensetime.com/explore,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,未使用
+Seko数字人,"图片, 视频, 数字人",对话类数字人,录用,4,试用额度,可文字或者音频驱动,image.png,https://seko.sensetime.com/,使用测试报告-Seko,王珺,2025/12/31,Seko,未使用
+Medeo,视频Agent,文本驱动视频生成 / 脚本转视频 / AI 视觉搭建/ 自动剪辑合成,录用,4,试用额度,,image.png,https://www.medeo.app,《AI软件筛选分析报告》--滚动更新,贺采,2025/12/31,,未使用
+MagicLight,视频Agent,故事自动生成分镜、视频/选择分镜景别生成视频,录用,3,试用额度,,image.png,https://www.magiclight.ai,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,未使用
+Boords,视频Agent,脚本生成扁平化风格视频,不录用,2,试用额度,?风格局限,image.png,https://www.boords.com,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,未使用
+扣子,"视频Agent, Agent",AI智能体/工作流编排/插件集成/知识库接入/图像流,录用,5,免费,,image.png,https://www.coze.cn/home,落地文档④Coze一键生成视频使用方法,"贺采,王琼琼",2025/12/31,,使用中
+MANUS,Agent,AI智能体,录用,5,试用额度,邀请得试用积分,image.png,https://manus.im/app,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,未使用
+Opus Clip,AI自动精剪,视频剪辑/长视频切短视频/内容再创作,录用,3,试用额度,,image.png,https://opus.pro/,"《AI软件筛选分析报告》--滚动更新
+",贺采,2025/12/31,,未使用
+Klap,AI自动精剪,AI 自动剪辑 / 视频短片生成 / 一键拆条,待定,2,试用额度,,image.png,https://klap.app/tools/video-maker,《AI软件筛选分析报告》--滚动更新,贺采,2025/12/31,,未使用
+Descript,AI自动精剪,基于文字剪辑视频,不录用,1,试用额度,?稳定性差,image.png,https://www.descript.com/,《AI软件筛选分析报告》--滚动更新,贺采,2025/12/31,,未使用
+,,,待定,3,试用额度,针对国外视频剪辑可选,,,,王珺,2025/12/31,Descript,未使用
+VOZO,"数字人, AI视频翻译, AI自动精剪",数字人口播视频/视频翻译/口播视频Agent,待定,4,试用额度,Heygen效果最佳,image.png,https://www.vozo.ai/video-translate,落地文档⑤AI视频翻译调研方案,贺采,2025/12/31,,未使用
+HeyGen,"数字人, AI视频翻译, AI自动精剪",数字人口播视频/视频翻译,录用,5,试用额度,单次上传视频≤30min,image.png,https://heygenai.app/zh,无,"贺采,王珺",2025/12/31,,使用中
+Infinitetalk【图片+音频】--RunningHub,数字人,数字人口型匹配视频,录用,4,试用额度,在RunningHub中使用,image.png,https://www.runninghub.cn/post/1957826962256658434,落地文档①Infinitalk数字人使用方法,贺采,2025/12/31,,使用中
+Infinitetalk【视频+音频】--RunningHub,数字人,数字人口型匹配视频,录用,4,试用额度,在RunningHub中使用,image.png,https://www.runninghub.cn/post/1958282916373676034,落地文档①Infinitalk数字人使用方法,贺采,2025/12/31,,使用中
+开拍APP,"视频, AI自动精剪",短视频口播制作,录用,3,试用额度,快速剪辑口播短视频,IMG_5423.PNG,手机app下载搜索：开拍,使用测试报告-开拍APP,王珺,2025/12/31,,使用中
+NotebookLM,视频,科普播客制作,待定,3,试用额度,快速生成视频、音频、脑图、问答等学习笔记辅助工具,image.png,https://notebooklm.google.com/,使用测试报告-NotebookLM,王珺,2025/12/31,,使用中
+Gemini3,"Agent, 网页, 游戏",各类网页、游戏、互动内容制作,录用,3,试用额度,一句话生成,image.png,https://gemini.google.com/app,使用测试报告-Gemini 3,王珺,2025/12/31,,使用中
+Lovart,"图片, 视频",设计类内容友好,待定,3,试用额度,图片+视频模型agent,image.png,https://www.lovart.ai/zh/home,使用测试报告-Lovart,王珺,2025/12/31,,使用中
+Grok imagine,"图片, 视频",可以批量生成图片，并生成视频,录用,,试用额度,批量生成图片,1cfcb1b50717e061a1a7f0b74d9ae742.png,https://grok.com/imagine,,贺采,2025/12/31,,使用中
+Google AI Studio,语音/音频,单人/多人播客声音,录用,3,免费,可生成声音，但是需要多次生成调整，会存在每一次声音都有变化的情况,image.png,https://aistudio.google.com/generate-speech?model=gemini-2.5-pro-preview-tts,,王珺,2025/12/31,,使用中
+Krea.AI,"图片, 视频","类似lovart集成型AI软件
+特殊功能：实施绘制生成图片",待定,2,试用额度,,image.png,https://kreaai.app,,贺采,2026/1/27,,
+Anirole,图片,"卡通角色为主的AI生成软件
+类似lovart集成型AI软件
+特殊功能：实施绘制生成图片",待定,3,试用额度,,image.png,https://anirole.com/,,贺采,2026/1/27,,
+Tapnow,"图片, 视频, 视频Agent, 语音/音频",可分析视频到分镜，同时外接各种图片+视频生成API,录用,4,试用额度,花费费用较高,image.png,https://app.tapnow.ai/home,使用测试报告-Tapnow,王珺,2026/3/9,,使用中
+幻舟,"图片, 视频, AI漫剧",可根据脚本文稿，批量生成分镜图片及视频，并一键完成视频剪辑合成。,待定,4,试用额度,花费费用较高，旁白语音选择有限,image.png,https://www.huanzhou.art/,一键/批量生成科普视频应用调研——2H生成,贺采,2026/3/19,,待定
+有戏AI,"图片, 视频, AI漫剧",可根据脚本文稿，批量生成分镜图片及视频，并一键完成视频剪辑合成。,待定,3,试用额度,花费费用较高，旁白语音选择有限，故事板生成分镜时，步骤较为繁琐,image.png,https://youxi.fullpeace.net/,一键/批量生成科普视频应用调研——2H生成,贺采,2026/3/19,,待定
+AniShort,"文本, 图片, AI漫剧",可根据脚本文稿，批量生成分镜图片及视频，并一键完成视频剪辑合成。,待定,4,试用额度,花费费用较高,78e213bf947d2fd2716d9b70e99a49a5.png,https://anishort.ai/,2026《AI软件筛选分析报告》--滚动更新,贺采,2026/3/26,,
+ACE Studio,语音/音频,上传视频，可自动生成与画面剪辑匹配的音乐、音效。,待定,4,无法试用,费用较高,image.png,https://acestudio.ai/zh/,2026《AI软件筛选分析报告》--滚动更新,贺采,2026/3/26,,
+LibTV,"文本, 图片, 视频",可根据脚本文稿，批量生成分镜图片及视频，并一键完成视频剪辑合成。,录用,5,试用额度,花费费用较高,image.png,https://www.liblib.tv/,2026《AI软件筛选分析报告》--滚动更新,"贺采,王珺",2026/3/26,,
+Flova,"文本, 图片, 视频, AI漫剧",可根据脚本文稿，批量生成分镜图片及视频，并一键完成视频剪辑合成。,录用,4,试用额度,,image.png,https://www.flova.ai/zh-CN/,,,2026/3/27,,
